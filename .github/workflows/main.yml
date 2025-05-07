@@ -28,7 +28,7 @@ jobs:
       - name: Paso 6 - instalar dependencias
         run: pip install -e .
       - name: Paso 7 - Ejecutar Script de main
-        run: python src/edu_piv/main.py
+        run: python src/piv/main.py
 
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
