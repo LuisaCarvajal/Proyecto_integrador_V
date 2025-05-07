@@ -11,6 +11,6 @@ setup(
         "pandas==2.2.3",
         "openpyxl",
         "requests==2.32.3",
-        "yfinance==0.2.59"
+        "yfinance==0.1.67"
     ]
 ) 
